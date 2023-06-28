@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Kajal937
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning web designing
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Javascript
+-    Ask me about Web Dev
 - 📫 How to reach me mail at palkajal622@gmail.com
 
 <!---
